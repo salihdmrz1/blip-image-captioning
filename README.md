@@ -171,4 +171,4 @@ Potential extensions for this project include:
 
 ## License
 
-This project is released under the MIT License.
+There is no license for this app as this project is developed for educational and research purposes.
