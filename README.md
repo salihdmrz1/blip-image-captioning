@@ -31,11 +31,8 @@ Users can upload an image, optionally provide a starting prompt, adjust generati
 
 ## Demo
 
-> Add a screenshot or GIF of the application here.
-
-```markdown
 ![Application Demo](images/demo.png)
-```
+
 
 ---
 
