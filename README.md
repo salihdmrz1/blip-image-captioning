@@ -97,13 +97,13 @@ BLIP-Image-Captioning/
 Clone the repository
 
 ```bash
-git clone https://github.com/salihdmrz1/BLIP-Image-Captioning.git
+git clone https://github.com/salihdmrz1/blip-image-captioning.git
 ```
 
 Navigate to the project directory
 
 ```bash
-cd BLIP-Image-Captioning
+cd blip-image-captioning
 ```
 
 Install the required dependencies
