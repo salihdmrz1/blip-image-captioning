@@ -131,6 +131,8 @@ The BLIP model will be downloaded automatically from Hugging Face the first time
 5. Click **Generate Caption**.
 6. Review one or more generated caption variations.
 
+- Project Website Link: https://blip-image-caption-generator.streamlit.app/
+
 ---
 
 ## Model
